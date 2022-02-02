@@ -1,0 +1,79 @@
+body {
+    margin: 0px;
+}
+
+img{
+    height: 400px;
+    display: inline-block;
+    object-fit: over;
+}
+
+.insect .image{
+    
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+iframe{
+    height: 400px;
+    display: inline-block;
+    
+}
+
+#banner{
+    margin-top: 0;
+    padding: 5px 0 5px 0;
+    background-color: rgb(94, 135, 177);
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Yaldevi', sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 45px;
+    font-family: 'Syne Mono', monospace;
+    text-align: center;
+}
+
+ul{
+    font-size: 20px;
+    margin: 15px 100px 90px 100px;
+    font-family: 'Yaldevi', sans-serif;
+}
+ul li{
+
+    margin: 8px;
+}
+
+.solfooter{
+    background:rgb(57, 86, 117);
+    padding: 0px;
+    margin: 0%;
+    border-top:2px solid #151515;
+}
+
+.copyright{
+    font-family: 'Lato', sans-serif;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    position:relative;
+    width:100%;
+    text-align:center;
+    color:rgb(255, 255, 255);
+    line-height:30px;
+    padding:10px 0;
+}
+
+.copyright a{
+    color:#f37769 !important;
+    text-decoration:none !important;
+}
+
+i{
+    font-family: 'Lato', sans-serif;
+}
